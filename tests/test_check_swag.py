@@ -7,3 +7,4 @@ def search_icon(browser):
     assert swag_check_page.exist_icon()
     assert swag_check_page.find_element('#user-name')
     assert swag_check_page.find_element('#password')
+
